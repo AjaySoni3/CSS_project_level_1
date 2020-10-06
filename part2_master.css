@@ -1,0 +1,19 @@
+body{
+background: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1494548162494-384bba4ab999%3Fixlib%3Drb-1.2.1%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26w%3D1000%26q%3D80&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fdawn&tbnid=a9B7raWE3PxoBM&vet=12ahUKEwilxLXu1_LrAhVdA7cAHXzhAoUQMygAegUIARDMAQ..i&docid=ezcoKoowmsJC7M&w=1000&h=1000&q=images&ved=2ahUKEwilxLXu1_LrAhVdA7cAHXzhAoUQMygAegUIARDMAQ);
+}
+
+div{
+  background-color: blue;
+  border-color: orange;
+  border-width: 4px;
+  border-style: double;
+}
+
+p{
+  color: yellow;
+}
+
+span{
+  background: red;
+  color: black;
+}
